@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{8F9F0E47-DD94-4F76-9044-10A1A4112EB7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="wwwroot/Data/Products.json">
+    <Files>
+      <File FileName="wwwroot/Data/Products.json" Line="9" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ContosoCraftsWebSite" expanded="True">
+            <Node name="ContosoCraftsWebSite" expanded="True">
+              <Node name="wwwroot" expanded="True">
+                <Node name="Data" expanded="True">
+                  <Node name="Products.json" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ContosoCraftsWebSite PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
