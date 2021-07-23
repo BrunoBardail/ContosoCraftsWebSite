@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hVob9lxgWsLF/FyQx3c+aVNE+C/V7OGivrEhKmwJAfaPtMjDTEbCzTfMOHxckRPaedcv5RuJ3RSzTTGHqBNTuQ==",
+  "success": true,
+  "projectFilePath": "/Users/brunobardail/Documents/MOC/ContosoCraftsWebSite/ContosoCraftsWebSite.csproj",
+  "expectedPackageFiles": [
+    "/Users/brunobardail/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
